@@ -1,4 +1,4 @@
-                                                        👋 Hello! I'm Emad
+                                         👋 Hello! I'm Emad
                                                         
 🎓 A student at the Faculty of Engineering – Electrical Engineering Department, 
 
