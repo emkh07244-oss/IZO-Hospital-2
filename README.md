@@ -42,10 +42,15 @@
 
 ---
 
-## 💬 تقدر تتواصل معايا
 
-📬 تيليجرام: [@emad_dev](https://t.me/+201063185431)  
-📁 حسابي على GitHub: [عماد](https://github.com/emkh07244)
+## 💬 Get in Touch
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/+201063185431)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/emkh07244)
+
+
+؟
+
 
 ---
 
