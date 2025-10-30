@@ -1,7 +1,8 @@
                                                         👋 Hello! I'm Emad
                                                         
 🎓 A student at the Faculty of Engineering – Electrical Engineering Department, 
-                    Computer Systems specialization
+
+   Computer Systems specialization
                     
 💻 Currently learning web development using HTML, CSS, and JavaScript
 
