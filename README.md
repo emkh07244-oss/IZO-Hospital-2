@@ -1,25 +1,27 @@
+                                                        👋 Hello! I'm Emad
+                                                        
+🎓 A student at the Faculty of Engineering – Electrical Engineering Department, 
+                    Computer Systems specialization
+                    
+💻 Currently learning web development using HTML, CSS, and JavaScript
 
+🌱 Improving my skills through simple projects and hands-on practice
 
+📍 Based in Egypt, aiming to become a professional developer and contribute to meaningful tech projects
 
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="مرحبًا بالمبرمجين" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="بيئة العمل" width="40%"/><br>
 
 </div>
 
 ---
-
-## 👋 مرحبًا! أنا عماد
-
-🎓 طالب في كلية الهندسة – قسم الهندسة الكهربائية تخصص حاسبات  
-💻 أتعلم تطوير الويب باستخدام **HTML**, **CSS**, و **JavaScript**  
-🌱 أطور مهاراتي من خلال مشاريع بسيطة وتجارب عملية  
-📍 من مصر، وأسعى لبناء مستقبل في مجال البرمجة والتقنية
+ة
 
 ---
 
-## 🛠️ الأدوات التي أستخدمها حاليًا
+## 🛠️ الأدوات اللي بستخدمها حاليًا
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -39,24 +41,19 @@
 
 ---
 
-## 💬 تواصل معي
+## 💬 تقدر تتواصل معايا
 
-📬 Telegram: [@emad_dev](https://t.me/emad_dev)  
-📁 GitHub: [عماد](https://github.com/your-username)
-
----
-
-##ة
+📬 تيليجرام: [@emad_dev](https://t.me/+201063185431)  
+📁 حسابي على GitHub: [عماد](https://github.com/emkh07244)
 
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="نظام بايظ"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="شغال تمام"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="شغال بس مش فاهم إزاي"/>
 </div>
 
-
-💪
+
